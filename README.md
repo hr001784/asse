@@ -2,6 +2,8 @@
 
 A complete MERN stack application featuring authentication (JWT), role-based authorization (user/admin), and a task management module with pagination and search.
 
+> Repository: `hr001784/asse`
+
 ## Project Structure
 
 ```
